@@ -6,7 +6,20 @@
     "type": "git",
     "url": "git@github.com:Partyschaum/express-node-typescript.git"
   },
-  "author": "Bowden Kelly",
+  "author": {
+    "name": "Hauke Stange",
+    "url": "https://github.com/Partyschaum/"
+  },
+  "contributors": [
+    {
+      "name": "Sahat Yalkabov",
+      "url": "https://github.com/sahat/hackathon-starter"
+    },
+    {
+      "name": "Bowden Kelly",
+      "url": "https://github.com/bowdenk7/express-typescript-starter"
+    }
+  ],
   "license": "MIT",
   "scripts": {
     "start": "yarn run build && yarn run watch",
